@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
-    <StartupObject>LinqPractice.Linq5</StartupObject>
+    <StartupObject>LinqPractice.Linq6</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
